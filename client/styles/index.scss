@@ -12,7 +12,7 @@ body {
   display: flex;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #a598ee;
+  background: linear-gradient( #005ba0, #cdfff4);
   padding: 15px;
 }
 
@@ -28,7 +28,8 @@ body {
   .heading {
     color: white;
     font-weight: bold;
-    font-size: 50px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 70px;
     text-align: center;
     margin-bottom: 50px;
   }
